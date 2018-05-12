@@ -1,4 +1,5 @@
 _repo: The-Strand-Magazine-Vol-1-No-5-May-1891-An-Illustrated-Monthly_46452
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -10,9 +11,7 @@ contributor:
       wikipedia: http://en.wikipedia.org/wiki/George_Newnes
 covers:
 - cover_type: archival
-  image_path: 46452/46452-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46452-h/images/cover.png
 creator:
   author:
     agent_name: Various
@@ -20,6 +19,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46452#The-Strand-Magazine-Vol-1-No-5-May-1891-An-Illustrated-Monthly
 gutenberg_issued: '2014-07-30'
 gutenberg_type: Text
 identifiers:
